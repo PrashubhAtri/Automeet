@@ -1,0 +1,20 @@
+/* You can add this in App.css or as <style> in index.html */
+.spinner {
+  border: 3px solid rgba(0, 0, 0, 0.1);
+  border-left-color: #000;
+  border-radius: 50%;
+  width: 1em;
+  height: 1em;
+  animation: spin 0.6s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.spinner-dark {
+  border: 3px solid rgba(255, 255, 255, 0.2);
+  border-left-color: #fff;
+}
