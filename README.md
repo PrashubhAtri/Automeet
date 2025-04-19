@@ -9,3 +9,15 @@ Transcribing your meeting (standups or scrums) and genrating a summary mail to a
 - [ ] Add Gmail support
 - [ ] Add google meet support
 - [ ] Add Slack support
+
+
+## Current .env file requirements
+
+```env
+GEMINI_API_KEY=""
+ZOOM_CLIENT_ID=""
+ZOOM_CLIENT_SECRET=""
+GMAIL_CLIENT_ID=""
+GMAIL_CLIENT_SECRET=""
+GMAIL_REDIRECT_URI=""
+```
