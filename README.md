@@ -6,6 +6,6 @@ Transcribing your meeting (standups or scrums) and genrating a summary mail to a
 - [x] Add summary
 - [x] Add Task extraction
 - [x] Add Zoom API
-- [] Add Gmail support
-- [] Add google meet support
-- [] Add Slack support
+- [ ] Add Gmail support
+- [ ] Add google meet support
+- [ ] Add Slack support
